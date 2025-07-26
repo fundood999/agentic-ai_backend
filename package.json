@@ -1,0 +1,18 @@
+{
+  "name": "agentic-ai_backend",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "git@github.fundood:fundood999/agentic-ai_backend.git",
+  "author": "Abhishek KS <abhishek.ks@frinks.ai>",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/storage": "^7.16.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  }
+}
