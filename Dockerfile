@@ -8,7 +8,7 @@ WORKDIR /app
 COPY package*.json ./
 
 # Install dependencies
-RUN yarn ci --only=production
+RUN npm ci --only=production
 
 # Copy the rest of the application code
 COPY . .
