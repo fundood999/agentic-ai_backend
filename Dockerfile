@@ -8,7 +8,7 @@ WORKDIR /app
 COPY package*.json ./
 
 # Install dependencies
-RUN npm ci --only=production
+RUN npm i
 
 # Copy the rest of the application code
 COPY . .
@@ -22,4 +22,4 @@ RUN adduser -S nodejs -u 1001
 USER nodejs
 
 # Start the application
-CMD ["yarn", "start"]
+CMD ["npm", "start"]

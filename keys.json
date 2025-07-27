@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mystical-magnet-466811-s3",
+  "private_key_id": "da0c549b34871d275c6557003f4efe03f4b9263b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCj8aITbaj+2QCq\n4zeKIPqkfgcyJAFSzU37wXrWR3REqrg1ZcHfdajo7qVhs2YUXNZtWWVd7T7kwsY1\n1i7RaBc9i2JbD5UkWcmGgpvW/dHpzsasCiNlFVMHNGr5e1OU8Q0k3LWjuST+nlca\nM6ieMNsy55PpN/UjrnujXtEdpOyJJZnSsuhPuIq1mJNilQEWhw5FNmkCmbXFuJ0v\nIkWM9vDKN69E6JVY6huvpuje8UU2AlkJd0Z//PxjFyYANAutFwBwq4UelKvB/t89\nQg4NWH6znTAHPtzeSn8//l4uy9IB/8hXnOIysB4cG/Xg46cUt+4RtVaIYCTctoEN\nbUX55wqPAgMBAAECggEATKQh9j4uIlF1D+5f4PmQ4sQt/gE6AykKO1bUY4cM8irz\nKbdT3nDFUXt7IgT5hCxwa7c+fZ3y6IOroLBru6aTMsjN5q8OtGsrHHBDhUqsTsbF\nNtkYeeFxqq0VE2NVjAvybpila5AanNON+ahLvAQv/Qioq37m4VLo5tNlJBwdHfGP\n04mwP3dKquxCp0uRxmGERihMdrUBQx+YMQi2eWKWgatr8VveoicxmkhOcU9r4KMh\nWIhdchNMTTLyDk+SgPhnG8HzCOatRhIefynrEJtkpyaEAF64F6dNwMBze7xI2Mxo\nhM6BUEPg/5yFWsxLb2ad9e+qhDMmL4YklpJYQFBCoQKBgQDVvDCk8U6AMjqRpQ5d\n5xep1reoi+1z1uNVXSYzu3dHsG35aN8eUeZg6lEPOxWJi4dlItOq0bd1UxpL1Dsa\nr+kPSB0RW617hjG4Xaw4P2Ps1w1vY2h6sNSF6vSQbUFeakyT9/Eq2gkKtR89Z3u1\nRx3/avxrN4Upn/xSTzLfaqetrwKBgQDEXOKdiN+uTi7uAwtJ94loHoaNCKLOs5q7\nsnFBTJl+Sr2m7fllmNltJEhjGqY5rcoC0q8J/F3l8kscOvlhr+bhM6Tij2V1mvdW\n7vTZ1xN2i9KNLG589owtD/N4kT4CD97gp8oL8StA6X7v7+xOcBINQx7W0fvwAW+m\n/2DvS9mJIQKBgQCsbk6wQx0Zv2wQ5CBbEXy9wEQa7gh7U/nDfIq9YZgxddzDQh/+\nzgQWW/NZXklZ1f89UIODY/2l4Y1tb6LfPNvBQGRzBItJBFJIcwnltv5erIBiRMid\nctuBzrPPcNUz3n45QeaGs7Bnuweg+kOLU/yXezB5Lyl3E2L05IAeTmVIcQKBgHqb\nqOBGq6wxozn4ap8X0hNSJB+Bye6Y1L/oLrFgO+NQldTaeMQISZLNeelvpWUUb7ON\ni8AHdTX0MRQCet6VL+tkDMtuUCK7zT7Z28b9dWiq66A8owyiAWrNr++TeQ1ejYLn\nIdCNGL3iTeFRhNKBRbREOchWuyHkM6wpf4RLbxwhAoGAW6ZQA4sK7T1rlha5wECl\nGP8GEh5aXMDB/Uc7wcFHy8ksAUz9GidV3B86xwj57Pg7KjCvFoBHcqpp0/FzXWSw\n9uBED1BhkMzs4Aa148nJLgbgpZSPDGitX1avOkKoO8Cg2qFai7SBe06eW4N2BHLj\nFg6924dQWHPS40cnL/QTigg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "s3write@mystical-magnet-466811-s3.iam.gserviceaccount.com",
+  "client_id": "106382629596602681777",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/s3write%40mystical-magnet-466811-s3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
